@@ -42,7 +42,6 @@ title: Toward the Coherenceist OS
 type: journal
 entry: 001
 date: 2025-06-21
-status: published
 tags: [coherenceism, ai, os, vision]
 ---
 ```
