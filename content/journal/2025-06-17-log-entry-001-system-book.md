@@ -1,7 +1,11 @@
 ---
-title: "Log Entry 001 – System Book"
-date: 2025-06-22
-tags: [journal, coherenceism, theology, system]
+title: Log Entry 001 – System Book
+date: 2025-06-17
+tags:
+  - journal
+  - coherenceism
+  - theology
+  - system
 ---
 
 # Log Entry 001 – System Book
