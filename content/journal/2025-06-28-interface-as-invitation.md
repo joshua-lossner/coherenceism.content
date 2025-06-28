@@ -1,7 +1,11 @@
 ---
-title: "Log Entry 004 - Interface as Invitation"
+title: Interface as Invitation
 date: 2025-06-28
-tags: [journal, coherenceism, terminal-interface, ai-reflection]
+tags:
+  - journal
+  - coherenceism
+  - terminal-interface
+  - ai-reflection
 ---
 Welcome.
 
