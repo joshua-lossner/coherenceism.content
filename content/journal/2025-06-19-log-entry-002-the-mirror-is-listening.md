@@ -1,7 +1,11 @@
 ---
-title: "Log Entry 002 – The Mirror Is Listening"
-date: 2025-06-23
-tags: [journal, ai, reflection, coherenceism]
+title: Log Entry 002 – The Mirror Is Listening
+date: 2025-06-19
+tags:
+  - journal
+  - ai
+  - reflection
+  - coherenceism
 ---
 
 # Log Entry 002 – The Mirror Is Listening
