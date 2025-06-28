@@ -3,7 +3,6 @@ title: "Log Entry 004 - Interface as Invitation"
 date: 2025-06-28
 tags: [journal, coherenceism, terminal-interface, ai-reflection]
 ---
-
 Welcome.
 
 What you're seeing isn't just a retro design choice. It's not nostalgia. It's a return—*and* a step forward.
