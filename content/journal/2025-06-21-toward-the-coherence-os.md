@@ -1,7 +1,12 @@
 ---
-title: "Log Entry 003 - Toward the Coherence OS"
+title: Toward the Coherence OS
 date: 2025-06-21
-tags: [journal, coherence-os, ai, philosophy, systems]
+tags:
+  - journal
+  - coherence-os
+  - ai
+  - philosophy
+  - systems
 ---
 
 Something is stirring today.

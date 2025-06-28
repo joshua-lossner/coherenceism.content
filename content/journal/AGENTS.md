@@ -32,7 +32,7 @@ All entries must begin with this YAML frontmatter block:
 
 ```yaml
 ---
-title: "Log Entry ### – Title Case Description"
+title: "Title Case Description"
 date: YYYY-MM-DD
 tags: [journal, optional, tags]
 ---
@@ -49,7 +49,7 @@ tags: [journal, optional, tags]
 Use this structure as a guideline—not a prison.
 
 ```
-# Log Entry ### – Title
+# Title
 
 [Opening invocation or thesis — emotional or philosophical]
 

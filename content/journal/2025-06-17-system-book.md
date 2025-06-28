@@ -1,5 +1,5 @@
 ---
-title: Log Entry 001 – System Book
+title: System Book
 date: 2025-06-17
 tags:
   - journal
@@ -8,7 +8,7 @@ tags:
   - system
 ---
 
-# Log Entry 001 – System Book
+# System Book
 
 We are not building content. We are reweaving reality.
 
