@@ -1,7 +1,8 @@
 ---
-title: "Log Entry "
+title: Fault Line
 date: 2025-06-29
-tags: [journal]
+tags:
+  - journal
 ---
 
 # Journal Entry: Fault Line
