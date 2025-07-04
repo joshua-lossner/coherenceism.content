@@ -1,0 +1,30 @@
+{
+  "name": "coherenceism.content",
+  "version": "1.0.0",
+  "description": "This repository contains all written content for the Coherenceism project—philosophy, books, journal entries, podcast scripts, and more. It serves as the *source of truth* for what eventually gets published to [coherenceism.info](https://coherenceism.info) and related channels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ingest": "node scripts/ingest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-lossner/coherenceism.content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joshua-lossner/coherenceism.content/issues"
+  },
+  "homepage": "https://github.com/joshua-lossner/coherenceism.content#readme",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "globby": "^14.1.0",
+    "gpt-tokenizer": "^3.0.1",
+    "openai": "^5.8.2",
+    "pg": "^8.16.3",
+    "remark": "^15.0.1"
+  }
+}
