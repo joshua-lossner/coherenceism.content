@@ -12,19 +12,17 @@ This repo exists to manage content as code—written in Markdown, versioned with
 
 ## 🛠️ Branching Strategy
 
-We use branches to manage the **state of content**, instead of metadata like `status: draft`.
+We use a simplified branching strategy focused on **main** as the primary branch for all published content.
 
-- **`main`** — ✅ *Published content only*. This branch is deployed to the live site.
-- **`test`** — 🟡 *Preview and reviewed drafts*. Used for staging and testing.
+- **`main`** — ✅ *All published content*. This branch is deployed to the live site.
 - **`feature/*`** — ✍️ *Work-in-progress branches* for new journal entries, essays, or book chapters.
 
 ### Example Flow
 
 1. Create a branch: `feature/essay-systems-before-symptoms`
 2. Write/edit content in Markdown
-3. Open a Pull Request to `test`
-4. Once reviewed, merge into `test`
-5. After staging site looks good, merge `test → main` to publish
+3. Open a Pull Request to `main`
+4. Once reviewed and ready, merge directly into `main` to publish
 
 ---
 
