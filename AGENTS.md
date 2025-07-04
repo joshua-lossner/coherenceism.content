@@ -59,7 +59,7 @@ Agents are allowed to:
 
 Agents **must not**:
 - Modify existing content without explicit request
-- Push directly to `main`
+- Push directly to `main` (always use pull requests)
 - Generate content without an accompanying commit summary
 
 ---
