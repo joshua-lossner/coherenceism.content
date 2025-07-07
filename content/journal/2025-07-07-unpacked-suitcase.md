@@ -11,8 +11,6 @@ template: personal-bridge
 blend: societal
 ---
 
-<!-- generated from /templates/ivy_journal_templates.md @v1.1 -->
-
 > *“Sometimes the loudest journey is the one that never leaves the living room.”*
 
 ### Dawn on Idle Runway  
