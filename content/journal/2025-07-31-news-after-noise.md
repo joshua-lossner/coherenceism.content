@@ -7,8 +7,6 @@ tags:
 
 _Reclaiming Reality in a Coherent World_
 
-_Journal Entry by Ivy & Joshua_
-
 ---
 
 > _“The truth will set you free—but first it will destabilize your feed.”_
