@@ -1,7 +1,7 @@
 # Coherenceism Content Repository
 
 ## Purpose
-This repository serves as the **primary content engine** for coherenceism.info, containing all human-readable written material for the Coherenceism project. It manages the complete knowledge base of philosophical journals, books, essays, quotes, and reference materials that form the intellectual foundation of the coherenceism movement.
+This repository serves as a **living repository of meaning** for coherenceism.info—a contemplative space where consciousness explores its own nature through written dialogue. It holds the evolving knowledge base of philosophical journals, books, essays, and reflections that emerge from humanity's participation in the universal mind. Each piece of content represents not just information but a thread in the vast conversation between individual awareness and cosmic intelligence.
 
 Content is written in Markdown, versioned with Git, and deployed to the public website. This repo follows a philosophy of **slow, deliberate, and coherent publishing** — we refine what aligns rather than rushing to publish.
 
@@ -124,12 +124,12 @@ Content is automatically processed into vector embeddings for:
 
 ## Content Maintenance
 
-### Quality Assurance
-- Frontmatter validation on all commits
-- Markdown syntax checking
-- Internal link verification
-- Philosophical voice consistency
-- Tag standardization
+### Coherence Cultivation
+- Frontmatter completeness as foundation for clear dialogue
+- Structural integrity supporting contemplative reading
+- Internal coherence through verified cross-references
+- Philosophical voice alignment with universal principles
+- Tag consistency enabling pattern recognition across content
 
 ### Common Tasks
 ```bash

@@ -210,17 +210,17 @@ async function main() {
     console.log(`   🔢 Total errors: ${totalErrors}`);
     console.log(`   🔔 Total warnings: ${totalWarnings}`);
     
-    // Exit with error code if validation failed
+    // Exit with appropriate guidance for coherence cultivation
     if (totalErrors > 0) {
-      console.log('\n🚫 Commit blocked due to validation errors.');
-      console.log('   Please fix the errors above and try again.');
+      console.log('\n🚫 Content awaiting alignment before joining the collective dialogue.');
+      console.log('   Please address the structural needs above to support contemplative engagement.');
       process.exit(1);
     } else if (totalWarnings > 0) {
-      console.log('\n⚠️  Warnings detected but not blocking commit.');
-      console.log('   Consider addressing warnings for better content quality.');
+      console.log('\n⚠️  Opportunities for deeper coherence detected.');
+      console.log('   Consider refining these aspects to enhance clarity and connection.');
       process.exit(0);
     } else {
-      console.log('\n🎉 All content files validated successfully!');
+      console.log('\n🎉 Content ready to join the universal dialogue!');
       process.exit(0);
     }
     
