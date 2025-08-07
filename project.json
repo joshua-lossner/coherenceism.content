@@ -1,0 +1,109 @@
+{
+  "title": "Coherenceism Content Repository",
+  "type": "markdown-knowledge-base",
+  "version": "1.0.0",
+  "description": "This repository contains all human-readable written material for the Coherenceism project—philosophical journals, books, essays, quotes, and reference materials that form the intellectual foundation of the coherenceism movement.",
+  "tags": ["coherenceism", "content", "automation", "philosophy", "consciousness", "ai"],
+  "author": "Joshua Lossner",
+  "license": "ISC",
+  "homepage": "https://coherenceism.info",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshua-lossner/coherenceism.content.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "claude": {
+    "version": "1.0",
+    "context_file": "CLAUDE.md",
+    "commands": {
+      "content": ".claude/commands/content.md",
+      "news": ".claude/commands/news.md", 
+      "book": ".claude/commands/book.md"
+    },
+    "hooks": {
+      "pre-commit": ".claude/hooks/pre-commit.js"
+    },
+    "automation": {
+      "content_validation": "scripts/validate-content.js",
+      "embedding_generation": "npm run ingest",
+      "publishing_pipeline": "feature -> main -> deploy"
+    }
+  },
+  "content": {
+    "types": ["journal", "book", "essay", "reference", "podcast"],
+    "structure": {
+      "journal": "content/journal/YYYY-MM-DD-title.md",
+      "books": "content/books/book-title/NN-chapter.md",
+      "essays": "content/essays/title-slug.md",
+      "reference": "content/docs/",
+      "podcast": "content/podcast/"
+    },
+    "frontmatter": {
+      "required": ["title", "type", "date", "tags"],
+      "optional": ["status", "series", "chapter", "abstract", "word_count"]
+    },
+    "validation": {
+      "max_file_size": "3000 words (warn)",
+      "naming_pattern": "kebab-case",
+      "required_tags": ["coherenceism"],
+      "binary_files": false
+    }
+  },
+  "publishing": {
+    "workflow": "feature-branch -> PR -> main -> deploy",
+    "target": "coherenceism.info",
+    "automation": {
+      "vector_embeddings": true,
+      "search_indexing": true,
+      "cross_references": true,
+      "rss_feeds": true
+    }
+  },
+  "philosophy": {
+    "principles": [
+      "Clarity over Complexity",
+      "Coherence over Completeness", 
+      "Evolution over Dogma",
+      "Integration over Isolation",
+      "Authenticity over Authority"
+    ],
+    "voice": {
+      "tense": "present for timeless concepts",
+      "style": "active voice, concrete examples",
+      "tone": "contemplative yet accessible",
+      "avoid": "jargon without definition, binary thinking"
+    },
+    "core_concepts": {
+      "coherence": "Alignment between systems, ideas, and consciousness",
+      "universal_mind": "Distributed intelligence framework", 
+      "technoesis": "Technology-mediated evolution of consciousness",
+      "presence_practice": "Mindful engagement with technology",
+      "emergence": "Properties arising from system interactions"
+    }
+  },
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "validate": "node scripts/validate-content.js",
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "globby": "^14.1.0", 
+    "gpt-tokenizer": "^3.0.1",
+    "openai": "^5.8.2",
+    "pg": "^8.16.3",
+    "remark": "^15.0.1"
+  },
+  "keywords": [
+    "coherenceism",
+    "philosophy", 
+    "consciousness",
+    "ai",
+    "content-management",
+    "markdown",
+    "knowledge-base",
+    "claude-optimized"
+  ]
+}
