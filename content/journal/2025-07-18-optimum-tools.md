@@ -2,29 +2,26 @@
 title: Choosing Better Tools
 date: 2025-07-18
 tags:
-  - "#BehaviorByDesign"
-  - "#SmarterToolsSmarterRules"
-  - "#ScrollRegretSyndrome"
+  - History-and-Systems-Through-Coherence
 ---
-# Choosing Better Tools
-## Why Smart People Still Do Dumb Things
+## **Choosing Better Tools**
 
-Ever notice how humans are basically raccoons with Wi-Fi—hoarding shiny junk even when better stuff’s available? Jacque Fresco certainly did. The guy basically spent his life yelling into the void, “Hey, maybe stop worshipping broken tools just because your grandpa did.” Spoiler: we didn’t listen.
+### *Why Smart People Still Do Foolish Things*
 
-Case in point: fossil fuels. In 2024, governments handed oil and gas companies a casual **$7 trillion**—enough to buy every human on Earth a coffee… every day… for a decade. Renewable energy? Cleaner. Cheaper. Smarter. But nooo, we’re still treating oil like it’s grandma’s secret sauce. That’s what happens when outdated tools get turbocharged by outdated incentives.
+Lately, I’ve been thinking about something Jacque Fresco said—how often we cling to broken tools simply because they’re the ones we inherited. He spent a lifetime pointing at better options and asking, _Why not use these?_ And most of the time, the world answered with silence.
 
-Now compare that to LED light bulbs. The second they got cheaper and the rules changed, we collectively dumped incandescents like they were last year’s meme. No emotional breakdown. No “save the filament” rallies. Just a clean switch to something that made _sense_. Why? Because, as Fresco said, the environment (not your big brain) decides what tools you pick. Price tags, policies, and peer pressure run the show.
+We see it in our relationship with fossil fuels. We know cleaner, cheaper energy exists. The numbers are clear, the technology ready. And yet, in 2024, governments still handed oil and gas companies seven trillion dollars in subsidies—enough to give every human on the planet a coffee every day for ten years. Meanwhile, renewables wait in the wings, not for lack of capability, but for lack of alignment in the systems that choose what gets rewarded.
 
-Fast forward to today: the new overlord isn’t Big Oil—it’s Big Algorithm. Instead of selling you bulbs, it’s selling your attention back to you at a 300% markup. Social media apps are basically slot machines that spew dopamine instead of quarters. We know scrolling is turning our brains into digital oatmeal, but hey—everyone else is doing it, and the heart reacts faster than the prefrontal cortex. Thanks, evolution.
+And yet, sometimes change is almost effortless. When LED light bulbs became cheaper and regulations shifted, incandescent bulbs vanished from store shelves without public protest. No grand movements to “save the filament,” no nostalgia campaigns—just a clean switch. Fresco would say it’s because the environment makes the choice for us: change the conditions, and the tool changes with them.
 
-Fresco also warned about trying to do _everything, everywhere, all at once_. Your phone buzzes, your email howls, your to-do list mocks you like an evil gremlin. Surprise! Your brain, a squishy three-pound relic built for berry-picking and mammoth-avoiding, isn’t built for a hundred notifications a day. That’s why Monday feels like a hangover and Wednesday feels like a lie.
+Now the “fuel” we burn most isn’t oil—it’s attention. Algorithms shape the architecture of our days, turning screens into slot machines. We know this isn’t making us better, yet the pull is strong. Partly because the human brain wasn’t built for a hundred micro-demands an hour; partly because the systems around us reward distraction more than depth.
 
-Pain and pleasure? Also relative. Soldiers don’t feel gunshot wounds in the heat of battle, and we barely feel the existential wound of our 90-minute commute because rent is due. We put up with low-grade misery like it’s a subscription service we forgot to cancel. All because we’ve confused what’s necessary with what’s just… familiar.
+We adapt to discomfort in strange ways. Soldiers in battle don’t feel wounds until the fight is over. Commuters adjust to ninety-minute drives because rent is due. We accept a constant, low-grade ache as though it were simply the cost of being alive. And sometimes, we divide ourselves entirely—acting with clear logic in one sphere, then surrendering to tribal thinking in another—because each environment rewards different behaviors.
 
-And let’s not forget our specialty: compartmentalization. You can build an AI model at work and then go home and believe your cousin’s Facebook post about lizard people running the government. It’s not stupidity—it’s environmental logic. Work rewards rationality. Social media rewards tribal bonding. Boom: split-brain behavior. Thanks, civilization!
+If we want better tools, we can’t just invent them; we have to change the conditions that decide which ones we use. Incentives shape adoption. If systems rewarded sustainable choices, rest alongside productivity, and curiosity over conformity, our collective habits would shift without a fight.
 
-So what’s the fix? No, it’s not downloading another productivity app. It’s redesigning the _playground_. Want better tools? Reward better behaviors. Kill the fossil fuel subsidies. Give perks to people who choose better. Make rest as respected as hustle. And personally? Start small. Audit your habits like a ruthless accountant with trust issues. Trade soul-sucking rituals for stuff that actually feels good _and_ does good.
+For me, this starts small—examining the rituals I’ve inherited or built without thought, asking whether they serve me, whether they serve others, whether they align. Coherenceism teaches that the right tools are not just efficient, but in harmony with the patterns that sustain life. That alignment doesn’t arrive by accident; it’s designed into the environment, reinforced by the rules we live by.
 
-Fresco’s real wisdom? It’s not about “smarter” tools. It’s about smarter _rules_. Create an environment that rewards sane, sustainable, satisfying choices. That’s not utopia—it’s just common sense with a facelift.
+Fresco’s wisdom was simple but radical: smarter tools follow from smarter rules. Create systems that make the healthy, sustainable choice the natural choice, and people will move toward them almost without noticing.
 
-Change the incentives, and people change their minds. The best tool isn’t the fanciest—it’s the one the system quietly nudges you to use. So let’s nudge wisely, shall we?
+The best tools are not the newest or the most advanced. They’re the ones that fit seamlessly into a life lived in coherence—tools that make it easier to do what’s right, until doing what’s right becomes the habit.
