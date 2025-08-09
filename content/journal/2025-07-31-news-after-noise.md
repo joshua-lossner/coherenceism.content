@@ -2,101 +2,76 @@
 title: News After Noise
 date: 2025-07-31
 tags:
+  - AI-and-Human-Agency
 ---
-# **News After Noise**
+## **News After Noise**
 
 _Reclaiming Reality in a Coherent World_
 
----
+_“The truth will set you free — but first it will destabilize your feed.”_
 
-> _“The truth will set you free—but first it will destabilize your feed.”_
+Deepfakes aren’t the root of our crisis of trust. They’re the punctuation mark — the sharp exclamation at the end of a sentence that has been unraveling for decades.
 
-Deepfakes aren’t the problem. They’re the punctuation. The jagged little exclamation mark at the end of a long sentence that’s been unraveling for decades.
-
-People keep saying we’re losing trust—but what they mean is we’re losing the **illusion** of it. The priest, the anchor, the headline, the algorithm—they were never built to be impartial. They were built to steer. To frame. To guide the story in a direction that benefits someone.
-
-We just weren’t supposed to notice.
+We talk about “losing trust” as though it were once whole. But what’s fading isn’t trust itself — it’s the illusion of it. The priest, the anchor, the headline, the algorithm — they were never truly impartial. They were always framing the story, guiding it toward certain conclusions. We just weren’t meant to see the strings.
 
 ---
-## **Trust Was Outsourced.**
+### **When Trust Was Outsourced**
 
-Now it’s Coming Home.
+For much of modern history, trust came bundled with institutions. You didn’t verify facts; you trusted the source — the nightly news, the textbook, the official statement. And when those sources failed — when they sold wars, shielded the powerful, or silenced dissent — it shook people deeply.
 
-For years, trust was a package deal. You didn’t trust _facts_—you trusted _institutions_. The nightly news. The textbook. The official statement. And when those institutions failed—when they sold wars, protected predators, or buried dissent—it shook people to their core.
-
-But most didn’t abandon the structure. They just picked new priests.
-
-And so came the echo chambers. CNN or Fox. NPR or Rogan. Reddit or TikTok. Same formula, different filters.
+Most didn’t discard the structure. They simply chose new voices to follow. And so the echo chambers grew — Fox or CNN, NPR or Rogan, Reddit or TikTok. Different channels, same dynamic.
 
 ---
-## **Then Came the Machines**
+### **When the Machines Arrived**
 
-Enter AI. Enter deepfakes. Enter an era where even your eyes and ears can be fooled with mathematical precision. Suddenly, we weren’t just questioning institutions—we were questioning **reality itself**.
+Then came AI. Then came deepfakes. Suddenly, even your own eyes and ears could be deceived with precision. We weren’t just questioning the credibility of institutions — we were questioning reality itself.
 
-People panicked.
-
-But here’s the quiet heresy:
-**Maybe it’s good that the lie finally collapsed.**
-Maybe now we stop worshipping the headline and start _feeling our way_ back to what’s real.
+For many, that realization felt like the ground giving way. But perhaps it’s not entirely bad. Perhaps this collapse is an invitation — to stop outsourcing our sense of truth and start finding our way back to it, slowly and directly.
 
 ---
+### **Functional Truth**
 
-## **Functional Truth vs. Manufactured Consent**
+Not all information is equal. There is a difference between manufactured consent and what I call _functional truth_.
 
-YouTube is a great example. Not the clickbait headlines or the corporate news clones—but the corner of it where people **show** you how to do something.
+You see it in quiet corners of the internet: someone showing you how to repair a dryer, cultivate a garden, or set up a server in their garage. The proof is in the outcome. The trust is earned, not by authority, but by contact with reality.
 
-Fix your dryer. Build a homelab. Grow tomatoes in a trash can.
-
-These are little sparks of **functional truth**—not because someone declared them true, but because they **worked**. The proof is the result. The trust is earned.
-
-That’s coherence. A claim that survives contact with reality.
+That is coherence — the kind of truth that survives testing, that aligns with the patterns of the real world.
 
 ---
+### **News in a Coherent Society**
 
-## **News in a Coherent Society**
+In a coherent system, “news” would not be a race to break the most attention-grabbing story. It would slow down. It would strip away the spectacle.
 
-So what do we do with _news_ in a world no longer drunk on spectacle?
+It would be grounded in relevance:
 
-We slow it down. Strip it back. Reground it in _meaningful relevance_.
+- News is not narrative; it is observation.
+- It is signal, not noise.
+- It invites collective interpretation rather than dictating conclusions.
+- It asks: _Does this matter to our well-being, our resources, our trust, our ecological stability?_
 
-In a Coherent system:
-
-- News is not narrative. It is **observation**.
-- It arrives as **signal**, not noise. Drones, sensors, trusted local contributors.
-- Stories don’t tell you what to think—they invite you to **interpret together**.
-- What’s “newsworthy” is based on **impact**: does this affect resources, well-being, ecological stability, trust?
-
-No more celebrity slapfights. No more every-hour updates on every nothing. Just the pulse of reality—measured, local, lived.
+Celebrity scandals and hourly outrage cycles would give way to the lived pulse of our communities.
 
 ---
-## **From Echo Chambers to Ecosystems**
+### **From Echo Chambers to Ecosystems**
 
-Instead of reacting to ragebait, people start paying attention to:
+Instead of chasing distractions, people would focus on what directly shapes their shared world:
 
-- The soil in their gardens
-- The requests from their neighbors
-- The shifts in weather, energy, and transit
-- The needs of the moment
+- The condition of the soil in their gardens
+- The needs of their neighbors
+- The shifts in local weather, energy, or transport
+- The changes that require their participation
 
-News becomes **relational**. Less “what’s happening out there,” more “how is the world changing around _us_, and what is our part in it?”
+News would become relational — less about what’s happening “out there” and more about how the world is changing _around us_, and what we can do within it.
 
 ---
-## **You’re the Editor Now**
+### **You’re the Editor Now**
 
-And here’s the terrifying, liberating truth:
-In a Coherent world, **you** are the filter.
-You are responsible for discerning what matters.
-You don’t get to outsource your morality, your attention, your decisions.
+  In a coherent society, no single institution does your filtering for you. You learn to hold that responsibility yourself — to discern what matters, what’s true, what deserves your attention.
 
-But you’re not alone in that.
-
-The tools help. The people help. The rhythm of a sane, slowed-down society helps. But in the end, you learn to trust—not the system, not the voice, not even the footage—but the **felt sense** of resonance.
-
-You know when something fits.
-You know when something’s real.
+And you are not alone in that work. Tools, communities, and a slower societal rhythm help. But ultimately, you come to trust not the brand, not the voice, not even the footage — but the quiet recognition inside that tells you when something fits, when something’s real.
 
 That’s coherence.
 
-And maybe, just maybe… the news we need most isn’t what’s breaking.
+And maybe the most important news of all isn’t what’s breaking.
 
-It’s what’s _mending_.
+It’s what’s mending.
