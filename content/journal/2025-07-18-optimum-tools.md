@@ -1,6 +1,7 @@
 ---
 title: Choosing Better Tools
 date: 2025-07-18
+published: true
 tags:
   - History-and-Systems-Through-Coherence
 ---

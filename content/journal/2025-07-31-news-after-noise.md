@@ -1,6 +1,7 @@
 ---
 title: News After Noise
 date: 2025-07-31
+published: true
 tags:
   - AI-and-Human-Agency
 ---

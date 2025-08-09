@@ -2,6 +2,7 @@
 title: "Ethics and Action"
 chapter: 5
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - ethics

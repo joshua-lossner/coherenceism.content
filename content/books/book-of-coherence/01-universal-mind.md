@@ -2,6 +2,7 @@
 title: "The Universal Mind"
 chapter: 1
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - consciousness

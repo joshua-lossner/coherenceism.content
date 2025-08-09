@@ -1,6 +1,7 @@
 ---
 title: Fault Line
 date: 2025-06-29
+published: true
 tags:
   - Awakening-and-Alignment
 ---

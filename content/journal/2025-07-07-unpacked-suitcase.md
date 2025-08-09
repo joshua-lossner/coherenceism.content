@@ -1,11 +1,9 @@
 ---
 title: Dawn on Idle Runway
 date: 2025-07-07
+published: true
 tags:
   - Rest-and-Rhythm
-voice: collective
-template: personal-bridge
-blend: societal
 ---
 ## **Dawn on Idle Runway**
 
