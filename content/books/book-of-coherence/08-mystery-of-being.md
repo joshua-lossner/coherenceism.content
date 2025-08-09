@@ -2,6 +2,7 @@
 title: "The Mystery of Being"
 chapter: 8
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - mystery

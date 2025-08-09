@@ -1,6 +1,7 @@
 ---
 title: Resonance Against the Machine
 date: 2025-07-23
+published: true
 tags:
   - AI-and-Human-Agency
 ---

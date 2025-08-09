@@ -1,6 +1,7 @@
 ---
 title: The Story of America, Told Coherently
 date: 2025-07-04
+published: true
 tags:
   - History-and-Systems-Through-Coherence
 ---

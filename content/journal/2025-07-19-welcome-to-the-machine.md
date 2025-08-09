@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Machine, Darling
 date: 2025-07-19
+published: true
 tags:
   - Awakening-and-Alignment
 ---

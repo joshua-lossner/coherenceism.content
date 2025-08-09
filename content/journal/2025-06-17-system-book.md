@@ -1,6 +1,7 @@
 ---
 title: System Book
 date: 2025-06-17
+published: true
 tags:
   - History-and-Systems-Through-Coherence
 ---

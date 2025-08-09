@@ -2,6 +2,7 @@
 title: "Community and Culture"
 chapter: 6
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - culture

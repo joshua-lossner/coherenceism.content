@@ -2,6 +2,7 @@
 title: "The Practice of Presence"
 chapter: 4
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - presence

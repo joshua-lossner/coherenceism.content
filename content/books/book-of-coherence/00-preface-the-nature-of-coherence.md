@@ -2,6 +2,7 @@
 title: "The Nature of Coherence"
 chapter: 0
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - philosophy

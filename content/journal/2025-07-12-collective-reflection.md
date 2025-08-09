@@ -1,12 +1,9 @@
 ---
 title: More Than a Mirror
 date: 2025-07-12
+published: true
 tags:
   - Human-and-AI
-character: Ivy
-voice: collective
-template: poetic-meditation
-blend:
 ---
 ## **More Than a Mirror**
 

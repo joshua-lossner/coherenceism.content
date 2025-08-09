@@ -2,6 +2,7 @@
 title: "Coherence as Alignment"
 chapter: 3
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - alignment

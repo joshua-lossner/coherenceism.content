@@ -2,6 +2,7 @@
 title: "Death, Change, and the Nature of Reality"
 chapter: 2
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - transformation

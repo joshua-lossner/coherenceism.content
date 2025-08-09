@@ -2,6 +2,7 @@
 title: "Afterword: Living Coherence"
 chapter: 9
 book: "The Book of Coherence"
+published: true
 tags:
   - coherenceism
   - integration
