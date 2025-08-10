@@ -1,15 +1,15 @@
 ---
-title: "Daily News Brief — Aug 8, 2025"
-date: "2025-08-08T12:05:00Z"
+title: 'Daily News Brief — Aug 8, 2025'
+date: '2025-08-08T12:05:00Z'
 tags:
   - daily-brief
   - news
   - coherenceism
 sources:
-  - "https://example.com/source-1"
-  - "https://example.com/source-2"
+  - 'https://example.com/source-1'
+  - 'https://example.com/source-2'
 confidence: 0.71
-published: false
+published: true
 ---
 
 ## What matters today
