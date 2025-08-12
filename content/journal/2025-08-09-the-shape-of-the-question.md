@@ -61,7 +61,3 @@ The magic isn’t in the jargon. It’s in giving enough context that the person
 Clarity isn’t sterile. It’s not about turning human needs into bullet points. It’s about letting someone — human or machine — see what you see. Because if they can’t picture it, they can’t build it.
 
 ---
-
-If you want, I can polish this with a closing hook that ties it back to coherence and today’s upgrades so it reads like a natural part of your journal archive.
-
-Do you want me to do that next?
