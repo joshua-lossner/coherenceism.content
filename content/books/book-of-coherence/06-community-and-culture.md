@@ -1,7 +1,7 @@
 ---
-title: "Community and Culture"
+title: Community and Culture
 chapter: 6
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

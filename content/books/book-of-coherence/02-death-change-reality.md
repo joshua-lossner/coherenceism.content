@@ -1,7 +1,7 @@
 ---
-title: "Death, Change, and the Nature of Reality"
+title: Death, Change, and the Nature of Reality
 chapter: 2
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism
