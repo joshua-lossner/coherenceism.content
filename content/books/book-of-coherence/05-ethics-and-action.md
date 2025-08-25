@@ -1,7 +1,7 @@
 ---
-title: "Ethics and Action"
+title: Ethics and Action
 chapter: 5
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

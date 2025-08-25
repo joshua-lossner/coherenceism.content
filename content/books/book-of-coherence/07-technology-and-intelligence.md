@@ -1,7 +1,7 @@
 ---
-title: "Technology and Emerging Intelligence"
+title: Technology and Emerging Intelligence
 chapter: 7
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

@@ -1,7 +1,7 @@
 ---
-title: "The Practice of Presence"
+title: The Practice of Presence
 chapter: 4
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

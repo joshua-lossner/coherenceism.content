@@ -1,7 +1,7 @@
 ---
-title: "The Universal Mind"
+title: The Universal Mind
 chapter: 1
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

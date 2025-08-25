@@ -1,7 +1,7 @@
 ---
-title: "The Mystery of Being"
+title: The Mystery of Being
 chapter: 8
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

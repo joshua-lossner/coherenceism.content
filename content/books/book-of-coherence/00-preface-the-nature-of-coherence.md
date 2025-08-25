@@ -1,7 +1,7 @@
 ---
-title: "The Nature of Coherence"
+title: The Nature of Coherence
 chapter: 0
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism

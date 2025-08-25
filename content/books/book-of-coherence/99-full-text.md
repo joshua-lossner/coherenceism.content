@@ -1,7 +1,7 @@
 ---
 title: "Afterword: Living Coherence"
 chapter: 9
-book: The Book of Coherence
+book: The Book of Coherenceism
 published: false
 tags:
 ---

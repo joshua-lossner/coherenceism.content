@@ -1,7 +1,7 @@
 ---
-title: "Coherence as Alignment"
+title: Coherence as Alignment
 chapter: 3
-book: "The Book of Coherence"
+book: The Book of Coherenceism
 published: true
 tags:
   - coherenceism
