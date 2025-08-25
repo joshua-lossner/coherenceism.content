@@ -3,7 +3,7 @@ title: Technology and Intelligence
 part: "Part 2: Problem Domains in Practice"
 chapter: 14
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 14 — Technology and Intelligence

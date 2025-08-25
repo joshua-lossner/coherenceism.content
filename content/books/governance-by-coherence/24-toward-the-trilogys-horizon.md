@@ -3,7 +3,7 @@ title: "Afterword: Toward the Trilogy's Horizon"
 part: "Part 3: Transition and Migration"
 chapter: 23
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Afterword: Toward the Trilogy’s Horizon

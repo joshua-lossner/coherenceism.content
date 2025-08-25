@@ -3,7 +3,7 @@ title: Ethics as Field Stewardship
 part: "Part 1: Principles of Coherent Governance"
 chapter: 6
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 6 — Ethics as Field Stewardship

@@ -3,7 +3,7 @@ title: Technology as Amplifier
 part: "Part 1: Principles of Coherent Governance"
 chapter: 8
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 8 — Technology as Amplifier

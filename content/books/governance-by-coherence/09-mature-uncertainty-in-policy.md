@@ -3,7 +3,7 @@ title: Mature Uncertainty in Policy
 part: "Part 1: Principles of Coherent Governance"
 chapter: 9
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 9 — Mature Uncertainty in Policy

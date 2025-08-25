@@ -3,7 +3,7 @@ title: Culture and Identity
 part: "Part 2: Problem Domains in Practice"
 chapter: 13
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 13 — Culture and Identity

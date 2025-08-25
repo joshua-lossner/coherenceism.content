@@ -3,7 +3,7 @@ title: Scaling Coherence
 part: "Part 3: Transition and Migration"
 chapter: 20
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 20 — Scaling Coherence

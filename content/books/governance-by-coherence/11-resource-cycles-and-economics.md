@@ -3,7 +3,7 @@ title: Resource Cycles and Economics
 part: "Part 2: Problem Domains in Practice"
 chapter: 11
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 11 — Resource Cycles and Economics

@@ -3,7 +3,7 @@ title: "Invitation: The Bridge Is Already Here"
 part: "Part 3: Transition and Migration"
 chapter: 23
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 23 — Invitation: The Bridge Is Already Here

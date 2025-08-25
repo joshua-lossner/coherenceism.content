@@ -3,7 +3,7 @@ title: Living Traditions and Cultural Adaptability
 part: "Part 1: Principles of Coherent Governance"
 chapter: 7
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 7 — Living Traditions and Cultural Adaptability

@@ -3,7 +3,7 @@ title: Ecology and Planetary Systems
 part: "Part 2: Problem Domains in Practice"
 chapter: 15
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 15 — Ecology and Planetary Systems

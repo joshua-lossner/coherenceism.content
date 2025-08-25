@@ -3,7 +3,7 @@ title: Bridging Strategies
 part: "Part 3: Transition and Migration"
 chapter: 19
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 19 — Bridging Strategies

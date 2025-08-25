@@ -3,7 +3,7 @@ title: Decision Making at Scale
 part: "Part 2: Problem Domains in Practice"
 chapter: 10
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ## Part II — Problem Domains in Practice

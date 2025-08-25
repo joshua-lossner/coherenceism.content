@@ -3,7 +3,7 @@ title: Guardrails Against Regression
 part: "Part 3: Transition and Migration"
 chapter: 21
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 21 — Guardrails Against Regression

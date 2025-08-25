@@ -3,7 +3,7 @@ title: "Introduction: Why Governance Needs Coherence"
 part: "Part 1: Principles of Coherent Governance"
 chapter: 1
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 1 — Introduction: Why Governance Needs Coherence

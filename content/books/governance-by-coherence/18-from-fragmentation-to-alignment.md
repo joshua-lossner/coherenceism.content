@@ -3,7 +3,7 @@ title: From Fragmentation to Alignment
 part: "Part 3: Transition and Migration"
 chapter: 18
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ## Part III — Transition and Migration

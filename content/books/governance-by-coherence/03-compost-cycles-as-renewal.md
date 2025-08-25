@@ -3,7 +3,7 @@ title: Compost Cycles as Renewal
 part: "Part 1: Principles of Coherent Governance"
 chapter: 3
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 3 — Compost Cycles as Renewal

@@ -3,7 +3,7 @@ title: Presence in Political Life
 part: "Part 1: Principles of Coherent Governance"
 chapter: 5
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 5 — Presence in Political Life

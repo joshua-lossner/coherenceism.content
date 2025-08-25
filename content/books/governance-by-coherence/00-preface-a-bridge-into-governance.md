@@ -3,7 +3,7 @@ title: "Preface: A Bridge into Governance"
 part: "Part 1: Principles of Coherent Governance"
 chapter: 0
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 # **Preface: A Bridge into Governance**

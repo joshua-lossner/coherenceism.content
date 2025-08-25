@@ -3,7 +3,7 @@ title: Conflict and Justice
 part: "Part 2: Problem Domains in Practice"
 chapter: 12
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 12 — Conflict and Justice

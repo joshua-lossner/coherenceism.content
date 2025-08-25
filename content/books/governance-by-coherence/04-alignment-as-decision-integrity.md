@@ -3,7 +3,7 @@ title: Alignment as Decision Integrity
 part: "Part 1: Principles of Coherent Governance"
 chapter: 4
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 4 — Alignment as Decision Integrity

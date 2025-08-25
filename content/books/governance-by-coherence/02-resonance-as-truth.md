@@ -3,7 +3,7 @@ title: Resonance as Truth
 part: "Part 1: Principles of Coherent Governance"
 chapter: 2
 book: Governance by Coherence
-published: false
+published: true
 tags:
 ---
 ### Chapter 2 — Resonance as Truth
