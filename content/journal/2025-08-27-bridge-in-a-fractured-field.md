@@ -1,11 +1,11 @@
 ---
-title: The Coming Collision
+title: Bridge in a Fractured Field
 date: 2025-08-27
 published: true
 tags:
   - History-and-Systems-Through-Coherence
 ---
-# Journal Entry: Pride Connect and the Work of Coherence  
+# Bridge in a Fractured Field
 
 *Some headlines strike like tuning forks, carrying more than information — they carry resonance.*  
 
