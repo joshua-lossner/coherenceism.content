@@ -3,7 +3,7 @@ title: Democratizing AI
 date: 2025-09-12
 published: true
 tags:
-  - History-and-Systems-Through-Coherence
+  - AI-and-Human-Agency
 ---
 # **Democratizing AI**
 
@@ -119,11 +119,3 @@ Picture it: a worker in their kitchen, laptop open, dog curled at their feet. A 
 This is the future worth fighting for—not the hollow scramble of corporations, but the quiet, steady power of ordinary people reclaiming their humanity with extraordinary tools.
 
 ---
-
-**River Tag:** _AI & Human Agency_
-
-**Cross-links:** [Awakening & Alignment — Seeing Through the Symbols](/journal/shadows-of-power) · [Human & AI: A Shared Becoming — Companions in Creation](/journal/shared-becoming)
-
----
-
-Do you want me to keep this as a standalone essay for coherenceism.info, or fold it into the _Book of Coherenceism_ as a late-chapter essay (it reads like one of the “call to action” moments)?
