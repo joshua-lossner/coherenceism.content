@@ -1,6 +1,6 @@
 ---
 title: Democratizing AI
-date: 2025-09-03
+date: 2025-09-12
 published: true
 tags:
   - History-and-Systems-Through-Coherence
